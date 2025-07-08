@@ -9,7 +9,7 @@ authors:
 - Muhammad Imran
 - Young-Koo Lee
 date: "2021-08-15T00:00:00Z"
-doi: "https://doi.org/10.1016/j.eswa.2021.114787"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-15T00:00:00Z"
@@ -34,7 +34,7 @@ tags:
 - Rule-Based Systems
 - Humanitarian Aid
 - Data Architecture
-featured: true
+featured: false
 
 # links:
 # - name: ""

@@ -9,7 +9,7 @@ authors:
 - admin
 - Young-Koo Lee
 date: "2020-08-17T00:00:00Z"
-doi: "https://doi.org/10.1109/ACCESS.2020.3017135"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-17T00:00:00Z"
