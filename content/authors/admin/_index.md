@@ -83,7 +83,7 @@ work:
   - position: Research Associate
     company_name: Data and Knowledge Engineering (DKE) Lab
     company_url: 'https://www.dkelab.kr/'
-    company_logo: ''
+    company_logo: 'dke'
     date_start: 2019-02-01
     date_end: ''
     summary: |2-
@@ -178,17 +178,29 @@ work:
         </dd>
       </dl>
 
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Research Engineer
+    company_name: Knowledge Platform
+    company_url: 'https://knowledgeplatform.com.pk/'
+    company_logo: 'knowledge_platform_logo'
+    date_start: 2018-09-01
+    date_end: 2018-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        **Responsibilities:**
+        * Grammar checker designing
+        * Error detection/correction modules development
+        * Quality Assurance
+
+  - position: Data Science Internee
+    company_name: National University of Sciences and Technology (NUST)
+    company_url: 'https://nust.edu.pk/'
+    company_logo: 'nust-logo'
+    date_start: 2017-06-01
+    date_end: 2018-07-01
+    summary: |
+        **Responsibilities:**
+        * Data Parsing and Feature Engineering
+        * Efficient disaster management designing
+        * Supervising undergraduates and junior postgraduate students 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -203,26 +215,51 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Machine Learning
         description: ''
         percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        icon: microchip
+      - name: Deep Learning
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 40
+        icon: brain
+      - name: Graph Neural Networks
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 40
+        icon: project-diagram
+      - name: Graph Embedding
         description: ''
-        percent: 80
-        icon: camera
+        percent: 40
+        icon: layer-group
+      - name: Distributed Computing
+        description: ''
+        percent: 40
+        icon: server
+      - name: Parallel Computing
+        description: ''
+        percent: 40
+        icon: network-wired
+      - name: Natural Language Processing
+        description: ''
+        percent: 40
+        icon: language
+
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
 languages:
   - name: English
