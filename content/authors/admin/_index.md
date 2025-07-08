@@ -190,8 +190,8 @@ work:
         * Error detection/correction modules development
         * Quality Assurance
 
-  - title: Data Science Internee
-    company: National University of Sciences and Technology (NUST), Pakistan
+  - position: Data Science Internee
+    company_name: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
     company_logo: nust-logo
     date_start: '2017-06-01'
@@ -203,8 +203,8 @@ work:
         * Supervising undergraduates and junior postgraduate students 
         
         
-  - title: Teaching Assistant
-    company: National University of Sciences and Technology (NUST), Pakistan
+  - position: Teaching Assistant
+    company_name: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
     company_logo: nust-logo
     location: Pakistan
@@ -216,8 +216,8 @@ work:
         * Lecture delivery and grading
         * Mentorship and supervision
         
-  - title: Visiting Faculty
-    company: Federal Urdu University of Arts Science and Technology (FUUAST), Pakistan
+  - position: Visiting Faculty
+    company_name: Federal Urdu University of Arts Science and Technology (FUUAST), Pakistan
     company_url: 'https://fuuast.edu.pk/'
     company_logo: fuuast-logo
     location: Pakistan
