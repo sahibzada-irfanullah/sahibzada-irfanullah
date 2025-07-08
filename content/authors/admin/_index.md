@@ -251,6 +251,8 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
+        icon_pack: fas
+        icon: brain
       - name: Graph Neural Networks
         description: ''
         percent: 40
