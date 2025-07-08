@@ -48,7 +48,7 @@ tags:
   - segmentation
   - Intensity based thresholding
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

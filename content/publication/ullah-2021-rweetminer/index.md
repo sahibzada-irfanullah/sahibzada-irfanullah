@@ -34,7 +34,7 @@ tags:
 - Rule-Based Systems
 - Humanitarian Aid
 - Data Architecture
-featured: false
+featured: true
 
 # links:
 # - name: ""

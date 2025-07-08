@@ -24,8 +24,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*IEEE Access, IEEE*"
+publication_short: "IEEE Access, IEEE"
 
 abstract: Deep learning has recently been shown to be effective in uncovering hidden patterns in non-Euclidean space, where data is represented as graphs with complex object relationships and interdependencies. Because of the implicit data dependence in the big graphs with millions of nodes and billions of edges, it is hard for industrial communities to exploit these methods to address real-world challenges at scale. The skewness property of big graphs, distributed file system performance penalty on small k-hop neighborhood subgraphs, and varying size of subgraph makes Graph Neural Networks (GNNs) training further challenging in a distributed environment using parameter servers. To address such issues, we propose a scalable, layered, fault-tolerance, and in-memory distributed computing-based graph neural network framework called Graph Distributed Learning Library (GDLL). The base layer utilizes an optimized distributed file system and a scalable graph data store to reduce the performance penalty. The second layer provides distributed graph processing using in-memory graph programming models while optimizing and hiding the underlying complexity of information complete subgraph computation. In the third layer, GNN modules are deployed on top of the first two layers for efficient distributed training using parameter servers. Finally, we evaluate and compare GDLL with the state-of-the-art solutions and outperform it significantly in terms of efficiency while maintaining similar GNN convergence.
 
