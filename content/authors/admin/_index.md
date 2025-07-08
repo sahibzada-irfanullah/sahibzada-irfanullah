@@ -58,8 +58,8 @@ interests:
   - Quantum Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Computer Science
+    institution: Kyung Hee University (KHU), South Korea
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -67,8 +67,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master of Science in Computer Science
+    institution: National University of Sciences and Technology (NUST), Pakistan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -78,8 +78,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Bachelor of Science in Computer Science
+    institution: Gomal University (GU), Pakistan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
