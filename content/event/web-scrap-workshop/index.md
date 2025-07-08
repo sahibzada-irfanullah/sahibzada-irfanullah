@@ -14,7 +14,8 @@ address:
 
 summary:   Organized a hands-on workshop at NUST covering the end-to-end ML pipeline for NLP-
   live web scraping, data preprocessing, feature engineering, model training and evaluation.
-abstract: ''
+abstract: 'Organized a hands-on workshop at NUST covering the end-to-end ML pipeline for NLP-
+  live web scraping, data preprocessing, feature engineering, model training and evaluation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

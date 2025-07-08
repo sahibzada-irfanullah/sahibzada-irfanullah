@@ -14,7 +14,8 @@ address:
 
 summary: Built and presented a hybrid DRAM–NVM (Intel Optane) memory prefetcher inside the Linux kernel.
   Showed how to generate access logs, train ML classifiers, and integrate them into the kernel to improve prefetch accuracy.
-abstract: ''
+abstract: 'Built and presented a hybrid DRAM–NVM (Intel Optane) memory prefetcher inside the Linux kernel.
+  Showed how to generate access logs, train ML classifiers, and integrate them into the kernel to improve prefetch accuracy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

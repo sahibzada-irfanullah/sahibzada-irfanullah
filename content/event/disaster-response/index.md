@@ -14,7 +14,8 @@ location: Kyung-Hee University (KHU), South Korea
 
 summary: Presented the design and implementation of a Spark + HDFS based distributed disaster response system.
   Covered full ML lifecycle- data preprocessing, feature extraction, model training and evaluation.
-abstract: ''
+abstract: 'Presented the design and implementation of a Spark + HDFS based distributed disaster response system.
+  Covered full ML lifecycle- data preprocessing, feature extraction, model training and evaluation.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

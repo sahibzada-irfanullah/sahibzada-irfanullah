@@ -14,7 +14,8 @@ address:
 
 summary:  Delivered an NLP tutorial explaining text-mining workflows-
   preprocessing, feature extraction, model building and live demos in Python.
-abstract: ''
+abstract: 'Delivered an NLP tutorial explaining text-mining workflows-
+  preprocessing, feature extraction, model building and live demos in Python.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
