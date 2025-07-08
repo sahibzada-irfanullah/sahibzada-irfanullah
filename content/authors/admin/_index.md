@@ -246,7 +246,7 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: 'microchip.svg'
       - name: Deep Learning
         description: ''
         percent: 40
