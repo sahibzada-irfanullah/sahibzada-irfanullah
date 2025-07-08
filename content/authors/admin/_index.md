@@ -47,9 +47,15 @@ profiles:
     url: https://orcid.org/0000-0003-1659-6040
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning with Graphs
+  - Graph Neural Networks
+  - Parallel and Distributed Computing
+  - Machine Learning with Graphs for NLP
+  - Natural Language Processing
+  - Data Mining & Information Retrieval
+  - Computer Vision
+  - Quantum Computing
+  - Quantum Machine Learning
 
 education:
   - area: PhD Artificial Intelligence
