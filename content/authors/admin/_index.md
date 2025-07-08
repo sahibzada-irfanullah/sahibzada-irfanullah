@@ -250,7 +250,7 @@ skills:
       - name: Deep Learning
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: brain
       - name: Graph Neural Networks
         description: ''
         percent: 40
