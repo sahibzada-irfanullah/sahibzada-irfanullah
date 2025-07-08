@@ -63,7 +63,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Optimizing Graph Neural Network Training for Large‑Scale Graphs through a Pipelined Architecture and Adaptive Sampling. Supervised by [Prof Young-Koo Lee](https://www.dkelab.kr/members/professor).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -72,23 +72,13 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis Title: Request Identification and Categorization on Twitter during Mass Convergence
   - area: Bachelor of Science in Computer Science
     institution: Gomal University (GU), Pakistan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
