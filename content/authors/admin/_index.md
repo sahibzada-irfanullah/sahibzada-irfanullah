@@ -250,6 +250,7 @@ skills:
       - name: Deep Learning
         description: ''
         percent: 40
+        icon_pack: fas
         icon: brain
       - name: Graph Neural Networks
         description: ''
