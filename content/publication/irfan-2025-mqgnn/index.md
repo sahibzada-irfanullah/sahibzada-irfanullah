@@ -33,7 +33,7 @@ tags:
 - Optimization 
 - Mixed CPU-GPU training
 - Inter-GPU communication
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -41,7 +41,7 @@ featured: false
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10877815
 url_code: 'https://github.com/dke-lab/dgll/tree/main/dgll/GPU%20Accelerator'
 url_dataset: ''
-url_poster: ''
+url_poster: 'MQ Architecture.png'
 url_project: ''
 url_slides: ''
 url_source: ''

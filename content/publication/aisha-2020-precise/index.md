@@ -43,7 +43,7 @@ tags:
 - Feature Enhancement Module
 - IOU-Guided Loss
 
-featured: true
+featured: false
 
 links:
 - name: ''
