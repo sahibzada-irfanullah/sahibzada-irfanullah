@@ -7,6 +7,7 @@ authors:
 - admin
 - Lee, Young-Koo
 date: "2025-01-01T00:00:00Z"
+# doi: "10.1109/ACCESS.2025.3539976"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
