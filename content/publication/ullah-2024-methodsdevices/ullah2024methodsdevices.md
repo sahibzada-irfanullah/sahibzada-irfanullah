@@ -41,7 +41,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'https://www.kipris.or.kr/khome/main.do'
+url_source: 'https://www.kipris.or.kr/khome/main.do'
 
 
 # Associated Projects (optional)

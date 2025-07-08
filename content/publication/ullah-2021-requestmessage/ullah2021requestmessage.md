@@ -42,7 +42,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
-url_pdf: 'https://doi.org/10.8080/1020210104172'
+url_source: 'https://doi.org/10.8080/1020210104172'
 url_code: ''
 url_dataset: ''
 url_poster: ''
