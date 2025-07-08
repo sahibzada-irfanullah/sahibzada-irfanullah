@@ -15,7 +15,7 @@ summary: |
   Derived optimized equations, authored technical report, and built a user-friendly interface.  
   Ensured precise output and elegant solution workflows.
 tags:
-- Deep Learning
+- Kinematics
 title: Application for Uniformly Accelerated Kinematics
 url_code:
 url_pdf: ""

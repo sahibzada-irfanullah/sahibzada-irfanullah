@@ -15,7 +15,7 @@ summary: >
   Led volunteer data labeling and trained OCR classifiers.
   Integrated models achieving ≥97% accuracy and presented results to stakeholders.
 tags:
-- Deep Learning
+- Machine Learning
 title: Accuracy Optimization of ODK Scan Tool
 url_code: ''
 url_pdf: ""
