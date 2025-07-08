@@ -60,8 +60,8 @@ interests:
 education:
   - area: PhD in Computer Science
     institution: Kyung Hee University (KHU), South Korea
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: 2025-08-20
     summary: |
       Optimizing Graph Neural Network Training for Large‑Scale Graphs through a Pipelined Architecture and Adaptive Sampling. Supervised by [Prof Young-Koo Lee](https://www.dkelab.kr/members/professor).
     button:
@@ -69,14 +69,14 @@ education:
       url: 'https://example.com'
   - area: Master of Science in Computer Science
     institution: National University of Sciences and Technology (NUST), Pakistan
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: 2018-07-15
     summary: |
-      Thesis Title: Request Identification and Categorization on Twitter during Mass Convergence
+      Thesis Title: Request Identification and Categorization on Twitter during Mass Convergence. Supervised by [Prof Sharifullah Khan](https://icon.nust.edu.pk/departments/department-of-computing/) and [Senior Scientis Dr. Muhammad Imran](https://www.hbku.edu.qa/en/staff/dr-muhammad-imran).
   - area: Bachelor of Science in Computer Science
     institution: Gomal University (GU), Pakistan
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: ""
+    date_end: 2014-12-31
     summary: |
       Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
