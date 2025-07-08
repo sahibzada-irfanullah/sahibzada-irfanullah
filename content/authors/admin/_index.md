@@ -83,7 +83,7 @@ work:
   - position: Research Associate
     company_name: Data and Knowledge Engineering (DKE) Lab, Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
-    company_logo: 'dke'
+    company_logo: 'dke.svg'
     date_start: 2019-02-01
     date_end: ''
     summary: |2-
@@ -181,7 +181,7 @@ work:
   - position: Research Engineer
     company_name: Knowledge Platform, Pakistan
     company_url: 'https://knowledgeplatform.com.pk/'
-    company_logo: 'knowledge_platform_logo'
+    company_logo: 'knowledge_platform_logo.svg'
     date_start: 2018-09-01
     date_end: 2018-12-31
     summary: |
@@ -206,7 +206,7 @@ work:
   - position: Teaching Assistant
     company_name: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
-    company_logo: nust-logo
+    company_logo: nust-logo.svg
     location: Pakistan
     date_start: '2016-06-01'
     date_end: '2018-09-01'
@@ -219,7 +219,7 @@ work:
   - position: Visiting Faculty
     company_name: Federal Urdu University of Arts Science and Technology (FUUAST), Pakistan
     company_url: 'https://fuuast.edu.pk/'
-    company_logo: fuuast-logo
+    company_logo: fuuast-logo.svg
     location: Pakistan
     date_start: '2016-10-01'
     date_end: '2017-02-27'
