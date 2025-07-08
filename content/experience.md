@@ -25,9 +25,9 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-accomplishments
+  - block: resume-award
     content:
-      title: Accomplishments
+      title: Award
       username: admin
   - block: resume-languages
     content:
