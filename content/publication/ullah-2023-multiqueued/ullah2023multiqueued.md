@@ -40,10 +40,7 @@ tags:
 
 # Display this page in the Featured widget?
 featured: false
-links:
-    url: "https://plus.kipris.or.kr/korsearch/patentDetailSearch.do?method=detail&applno=1020210104172"
-    icon: globe
-    icon_pack: fas
+url_source: 'https://www.kipris.or.kr/khome/main.do'
 
 # Associated Projects (optional)
 projects: []
