@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ufH0Z5cAAAAJ&hl=en&authuser=1
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0003-1659-6040
+    url: https://orcid.org/0000-0003-1659-6040
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Irfan Ullah is a Ph.D. graduate in Computer Science from Kyung Hee University, South Korea. He received his Masters in Computer Science from the National University of Sciences and Technology (NUST), Pakistan, and has held research and teaching positions at NUST and the Federal Urdu University of Arts, Science, and Technology (FUUAST), as well as a development role at the multinational Knowledge Platform in Pakistan. He is also a Research Assistant in the Department of Computer Science and Engineering at Kyung Hee University.
+
+With a strong academic background and a record of winning multiple awards for excellent performance, his work has been published in high-impact journals and international conferences, and he is co-inventor on several patents. He has contributed to research projects on scalable graph neural network (GNN) training, memory-aware computing, distributed graph learning, social media data analysis, and is increasingly building expertise in quantum machine learning. He has delivered invited talks and tutorials on programming and development, natural language processing, distributed computing, machine learning with graphs, and quantum-enhanced algorithms. His research interests span graph neural networks, quantum machine learning, deep learning, big data analytics, multimodal learning, computer vision, natural language processing, crisis computing, information retrieval, distributed systems, operating-system design, and memory-system optimization.
