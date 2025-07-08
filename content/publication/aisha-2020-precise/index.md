@@ -1,12 +1,26 @@
 ---
-title: "An example preprint / working paper"
+title: "Precise Single-stage Detector"
 authors:
+- Aisha Chandio
+- Gong Gui
+- Teerath Kumar
 - admin
-date: "2019-04-07T00:00:00Z"
+- Ramin Ranjbarzadeh
+- Arunabha M. Roy
+- Akhtar Hussain
+- Yao Shen
+author_notes:
+- 
+- 
+-
+- "ORCID: 0000-0003-1659-6040"
+- 
+-
+date: "2022-10-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,7 +49,7 @@ links:
 - name: ''
   url: ''
 url_pdf: https://arxiv.org/pdf/2210.04252
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 

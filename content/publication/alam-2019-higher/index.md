@@ -21,11 +21,11 @@ author_notes:
   - "ORCID: 0000-0003-1659-6040"
   - 'Equal contribution'
 
-date: '2013-07-26T00:00:00Z'
+date: '2019-06-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2013-07-26T00:00:00Z'
+publishDate: '2019-06-26T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -44,20 +44,10 @@ summary: A four-layer distributed surveillance architecture that ingests large-s
 
 tags:
   - Intelligent Surveillance
-
   - Distributed Architecture
-
-  - Computer Vision
-
   - Semantic Video Annotation
-
   - In-Memory Computing
-
-  - Video Data Indexing
-
   - RDF Mapping
-
-  - Real-Time Monitoring
 
 # Display this page in the Featured widget?
 featured: true

@@ -34,12 +34,12 @@ abstract: Graph Neural Networks (GNNs) are becoming an essential tool for learni
 summary: This paper introduces DAFOS, a dynamic adaptive fanout sampler for GNNs that leverages node-degree scoring and early stopping to achieve substantial speedups and accuracy gains on large graph benchmarks.
 
 tags:
+  - Deep Learning
   - Graph Neural Networks
   - Dynamic Sampling
   - Adaptive Fanout
   - Scalability
   - Performance Optimization
-  - Early Stopping
 
 # Display this page in the Featured widget?
 featured: true
