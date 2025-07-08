@@ -73,16 +73,15 @@ education:
     date_end: 2018-07-15
     summary: |
       Thesis Title: Request Identification and Categorization on Twitter during Mass Convergence. Supervised by [Prof Sharifullah Khan](https://icon.nust.edu.pk/departments/department-of-computing/) and [Senior Scientis Dr. Muhammad Imran](https://www.hbku.edu.qa/en/staff/dr-muhammad-imran).
-  - area: Bachelor of Science in Computer Science
-    institution: Gomal University (GU), Pakistan
-    date_start: ""
-    date_end: 2014-12-31
-    summary: |
-      Thesis Title: Personal Identification and Verification using Multiple Biometrics
+  # - area: Bachelor of Science in Computer Science
+  #   institution: Gomal University (GU), Pakistan
+  #   date_start: ""
+  #   date_end: 2014-12-31
+  #   summary: |
+  #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
   - position: Research Associate
-    company_name: Data and Knowledge Engineering (DKE) Lab
-    location: South Korea
+    company_name: Data and Knowledge Engineering (DKE) Lab, Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
     company_logo: 'dke'
     date_start: 2019-02-01
@@ -180,8 +179,7 @@ work:
       </dl>
 
   - position: Research Engineer
-    company_name: Knowledge Platform
-    location: Pakistan
+    company_name: Knowledge Platform, Pakistan
     company_url: 'https://knowledgeplatform.com.pk/'
     company_logo: 'knowledge_platform_logo'
     date_start: 2018-09-01
@@ -192,20 +190,21 @@ work:
         * Error detection/correction modules development
         * Quality Assurance
 
-  - position: Data Science Internee
-    company_name: National University of Sciences and Technology (NUST)
+  - title: Data Science Internee
+    company: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
-    company_logo: 'nust-logo'
-    date_start: 2017-06-01
-    date_end: 2018-07-01
-    summary: |
+    company_logo: nust-logo
+    date_start: '2017-06-01'
+    date_end: '2018-07-01'
+    description: |2-
         **Responsibilities:**
         * Data Parsing and Feature Engineering
         * Efficient disaster management designing
         * Supervising undergraduates and junior postgraduate students 
-
+        
+        
   - title: Teaching Assistant
-    company: National University of Sciences and Technology (NUST)
+    company: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
     company_logo: nust-logo
     location: Pakistan
@@ -218,7 +217,7 @@ work:
         * Mentorship and supervision
         
   - title: Visiting Faculty
-    company: Federal Urdu University of Arts Science and Technology (FUUAST)
+    company: Federal Urdu University of Arts Science and Technology (FUUAST), Pakistan
     company_url: 'https://fuuast.edu.pk/'
     company_logo: fuuast-logo
     location: Pakistan
@@ -229,6 +228,8 @@ work:
         * Lecture Delivery
         * Student Mentorship
         * Assessment Design
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -303,105 +304,122 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2025-01-01'
-    description: "Programs: Development of a Distributed Graph Data Management System for Intelligent Processing of Big Graphs (Grant No. 2021-0-00859) and AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP"
-    organization: "Ministry of Science and ICT (MSIT), Korea"
-    organization_url: ''
-    title: "Grant for the \"MQ-GNN\""
-    url: ''
+- title: "Grant for the \"MQ-GNN\""
+  url: ""
+  date: '2025-01-01'
+  awarder: "Ministry of Science and ICT (MSIT), Korea"
+  icon: ""
+  summary: |
+    Programs: Development of a Distributed Graph Data Management System for Intelligent Processing of Big Graphs (Grant No. 2021-0-00859) and AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2024-11-01'
-    description: "Program: AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP"
-    organization: "Ministry of Science and ICT (MSIT), Korea"
-    organization_url: ''
-    title: "Grant for the \"DAFOS based GNN\" Optimization"
-    url: ''
+- title: "Grant for the \"DAFOS based GNN\" Optimization"
+  url: ""
+  date: '2024-11-01'
+  awarder: "Ministry of Science and ICT (MSIT), Korea"
+  icon: ""
+  summary: |
+    Program: AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2019-03-01'
-    description: "Grand IT Research Center support program (Grant No. IITP-2020-2015-0-00742); Supervising Organization: IITP"
-    organization: "Ministry of Science and ICT (MSIT), Korea"
-    organization_url: ''
-    title: "Grant for the \"RweetMiner system\""
-    url: ''
+- title: "Grant for the \"RweetMiner system\""
+  url: ""
+  date: '2019-03-01'
+  awarder: "Ministry of Science and ICT (MSIT), Korea"
+  icon: ""
+  summary: |
+    Grand IT Research Center support program (Grant No. IITP-2020-2015-0-00742); Supervising Organization: IITP.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2015-09-01'
-    description: ''
-    organization: "National University of Sciences and Technology (NUST), Pakistan"
-    organization_url: ''
-    title: "NUST Postgraduate Scholarship"
-    url: ''
+- title: "NUST Postgraduate Scholarship"
+  url: ""
+  date: '2015-09-01'
+  awarder: "National University of Sciences and Technology (NUST), Pakistan"
+  icon: ""
+  summary: ""
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2015-03-01'
-    description: "Received a shield, provided by IC&IT Department for achieving second position in my Bachelor’s degree."
-    organization: "Gomal University, Pakistan"
-    organization_url: ''
-    title: "Position Holder Award"
-    url: ''
+- title: "Position Holder Award"
+  url: ""
+  date: '2015-03-01'
+  awarder: "Gomal University, Pakistan"
+  icon: ""
+  summary: |
+    Received a shield, provided by IC&IT Department for achieving second position in my Bachelor’s degree.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2014-04-01'
-    description: "Shield awarded by the Controller of Examinations, NUST, for achieving second position in the final year of the Bachelor’s degree."
-    organization: "Gomal University, Pakistan"
-    organization_url: ''
-    title: "Position Holder Award"
-    url: ''
+- title: "Position Holder Award"
+  url: ""
+  date: '2014-04-01'
+  awarder: "Gomal University, Pakistan"
+  icon: ""
+  summary: |
+    Shield awarded by the Controller of Examinations, NUST, for achieving second position in the final year of the Bachelor’s degree.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2014-01-01'
-    description: "Shield awarded by Gomal University for securing first position in a software competition by developing a user-friendly, error-preventive tool for solving numerical problems in uniformly accelerated kinematics."
-    organization: "Gomal University"
-    organization_url: ''
-    title: "Best Software Developer Award"
-    url: ''
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2014-04-01'
-    description: "Shield awarded by Marwat Student Society at the First Marwat Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree."
-    organization: "Marwat Student Society, Gomal University, Gomal University"
-    organization_url: ''
-    title: "Second Position Award"
-    url: ''
+- title: "Best Software Developer Award"
+  url: ""
+  date: '2014-01-01'
+  awarder: "Gomal University"
+  icon: ""
+  summary: |
+    Shield awarded by Gomal University for securing first position in a software competition by developing a user-friendly, error-preventive tool for solving numerical problems in uniformly accelerated kinematics.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2014-04-01'
-    description: "Shield awarded by People’s Student Federation at the Shaheed Qamar Abbas Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree."
-    organization: "Gomal University"
-    organization_url: ''
-    title: "Second Position Award"
-    url: ''
+- title: "Second Position Award"
+  url: ""
+  date: '2014-04-01'
+  awarder: "Marwat Student Society, Gomal University"
+  icon: ""
+  summary: |
+    Shield awarded by Marwat Student Society at the First Marwat Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2013-04-01'
-    description: "Shield awarded by the IC & IT Department, NUST, for achieving first position in the second year of the Bachelor’s degree."
-    organization: "National University of Sciences and Technology (NUST), Pakistan"
-    organization_url: ''
-    title: "First Position Award"
-    url: ''
 
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2012-03-01'
-    description: "Shield awarded by the IC & IT Department, NUST, for achieving first position in the first year of the Bachelor’s degree."
-    organization: "Gomal University"
-    organization_url: ''
-    title: "First Position Award"
-    url: ''
+- title: "Second Position Award"
+  url: ""
+  date: '2014-04-01'
+  awarder: "Gomal University"
+  icon: ""
+  summary: |
+    Shield awarded by People’s Student Federation at the Shaheed Qamar Abbas Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
 
+- title: "First Position Award"
+  url: ""
+  date: '2013-04-01'
+  awarder: "National University of Sciences and Technology (NUST), Pakistan"
+  icon: ""
+  summary: |
+    Shield awarded by the IC & IT Department, NUST, for achieving first position in the second year of the Bachelor’s degree.
+
+- title: "First Position Award"
+  url: ""
+  date: '2012-03-01'
+  awarder: "Gomal University"
+  icon: ""
+  summary: |
+    Shield awarded by the IC & IT Department, NUST, for achieving first position in the first year of the Bachelor’s degree.
+
+
+
+  # - title: Neural Networks and Deep Learning
+  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
+  #   date: '2023-11-25'
+  #   awarder: Coursera
+  #   icon: coursera
+  #   summary: |
+  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  # - title: Blockchain Fundamentals
+  #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  #   date: '2023-07-01'
+  #   awarder: edX
+  #   icon: edx
+  #   summary: |
+  #     Learned:
+  #     - Synthesize your own blockchain solutions
+  #     - Gain an in-depth understanding of the specific mechanics of Bitcoin
+  #     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  # - title: 'Object-Oriented Programming in R'
+  #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  #   certificate_url: https://www.datacamp.com
+  #   date: '2023-01-21'
+  #   awarder: datacamp
+  #   icon: datacamp
+  #   summary: |
+  #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
