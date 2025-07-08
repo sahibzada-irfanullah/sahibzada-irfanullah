@@ -246,19 +246,19 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 40
-        icon: 'microchip'
+        icon: microchip.svg
       - name: Deep Learning
         description: ''
         percent: 40
-        icon: brain
+        icon: microchip.svg
       - name: Graph Neural Networks
         description: ''
         percent: 40
-        icon: project-diagram
+        icon: microchip.svg
       - name: Graph Embedding
         description: ''
         percent: 40
-        icon: layer-group
+        icon: microchip.svg
       - name: Distributed Computing
         description: ''
         percent: 40
@@ -266,7 +266,7 @@ skills:
       - name: Parallel Computing
         description: ''
         percent: 40
-        icon: network-wired
+        icon: microchip.svg
       - name: Natural Language Processing
         description: ''
         percent: 40
