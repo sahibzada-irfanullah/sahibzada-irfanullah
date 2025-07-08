@@ -1,48 +1,70 @@
 ---
-title: "Request Message Classification Device and Method"
+title: 'Request Message Classification Device and Method'
 
-# Inventors
-inventors:
+# Authors (Inventors)
+authors:
   - admin
   - Kim, Taeyeon
   - Lee, Young-Koo
 
-# Inventor notes (optional)
-inventor_notes:
-  - "ORCID: 0000-0003-1659-6040"
+# Author notes (optional)
+author_notes:
+  - 'ORCID: 0000-0003-1659-6040'
 
-# Issue date (YYYY-MM-DDT00:00:00Z)
-date: "2024-12-12T00:00:00Z"
-
-# Patent number
-patent_number: "1020210104172"
-
-# Office (e.g. USPTO, KIPO)
-patent_office: "Korean Intellectual Property Office"
+date: '2024-12-12T00:00:00Z'
+doi: 'https://doi.org/10.8080/1020210104172'
 
 # Schedule page publish date (NOT the issue date)
-publishDate: "2024-12-12T00:00:00Z"
+publishDate: '2024-12-12T00:00:00Z'
 
-# Entry type
-publication_types: ['patent']
+# Publication type (using conference format for patents)
+publication_types: ['paper-conference']
+
+# Office and status
+publication: In *Korean Intellectual Property Office (Patent Granted)*
+publication_short: In *(KIPO)*
 
 abstract: ""
 
-# Optional short summary
-summary: ""
+# Summary. An organized overview including status and key details.
+summary: |
+  Inventors: Irfan Ullah (ORCID: 0000-0003-1659-6040), Kim Taeyeon, and Lee Young-Koo.  
+  Patent granted by the Korean Intellectual Property Office (Patent No. 1020210104172) on December 12, 2024.  
+  Covers a device and method for automated classification of request messages.
 
-tags: []
+tags:
+  - Patent
+  - Message Classification
+  - Device & Method
+  - Korean IPO
+  - Machine Learning
 
-# Display in Featured widget?
+# Display this page in the Featured widget?
 featured: false
 
-# URL to full patent document
-url_patent: "https://doi.org/10.8080/1020210104172"
+url_pdf: 'https://doi.org/10.8080/1020210104172'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
-# Associated projects (optional)
+# Featured image (if applicable)
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional)
 projects: []
 
 # Slides (usually not used for patents)
-slides: ''
+slides: ""
 ---
+
+{{% callout note %}}
+Click the _Cite_ button above to enable visitors to import this patent’s metadata into their reference-management software.
+{{% /callout %}}
 
