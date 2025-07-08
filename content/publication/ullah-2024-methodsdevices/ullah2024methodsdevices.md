@@ -41,10 +41,7 @@ tags:
 # Display this page in the Featured widget?
 featured: false
 
-links:
-    url: 'https://www.kipris.or.kr/khome/main.do'
-    icon: globe
-    icon_pack: fas
+url_source: 'https://www.kipris.or.kr/khome/main.do'
 
 
 # Associated Projects (optional)
