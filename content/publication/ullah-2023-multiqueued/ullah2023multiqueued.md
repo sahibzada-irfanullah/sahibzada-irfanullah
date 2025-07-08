@@ -40,8 +40,10 @@ tags:
 
 # Display this page in the Featured widget?
 featured: false
-
-url_source: 'https://www.kipris.or.kr/khome/main.do'
+links:
+    url: 'https://www.kipris.or.kr/khome/main.do'
+    icon: globe
+    icon_pack: fas
 
 # Associated Projects (optional)
 projects: []
