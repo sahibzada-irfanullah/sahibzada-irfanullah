@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.48550/arXiv.2507.08845'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://drive.google.com/file/d/1jTMFkkzgVl-p7LZZMyJkUrRQtXswUMof/view?usp=drive_link"
+url_pdf: "https://arxiv.org/pdf/2507.08845"
 url_code: ''
 url_dataset: ''
 url_poster: 'DAFOS_Architecture.png'
