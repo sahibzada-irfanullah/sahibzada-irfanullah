@@ -80,7 +80,7 @@ education:
   #   summary: |
   #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
-  - position: Research Engineer
+  - position: Research Professor
     company_name: Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
     company_logo: 'dke.svg'
