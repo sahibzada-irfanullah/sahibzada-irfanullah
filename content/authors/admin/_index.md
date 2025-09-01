@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate
+role: Research Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Kyung-Hee University (KHU), South Korea
-    url: https://www.dkelab.kr/
+    url: https://www.khu.ac.kr/eng/user/main/view.do
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -58,7 +58,7 @@ interests:
   - Quantum Machine Learning
 
 education:
-  - area: PhD in Computer Science
+  - area: PhD in Computer Engineering
     institution: Kyung Hee University (KHU), South Korea
     date_start: ""
     date_end: 2025-08-20
@@ -80,15 +80,26 @@ education:
   #   summary: |
   #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
+  - position: Research Engineer
+    company_name: Kyung-Hee University (KHU), South Korea
+    company_url: 'https://www.dkelab.kr/'
+    company_logo: 'dke.svg'
+    date_start: 2025-09-01
+    date_end: ""
+    summary: |
+        **Responsibilities:**
+        * Supervising
+        * Research and Development
+        * Writing and developing research proposals
   - position: Research Associate
     company_name: Data and Knowledge Engineering (DKE) Lab, Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
     company_logo: 'dke.svg'
     date_start: 2019-02-01
-    date_end: ''
+    date_end: 2025-08-31
     summary: |2-
         <dl class="resume-period">
-          <dt><em>Feb 2024 – Cont.</em></dt>
+          <dt><em>Feb 2024 – Aug 2025</em></dt>
           <dd>
             <strong>Goal:</strong> Optimized Subgraph Batching and Caching for Rapid GNNs, <a href="https://github.com/sahibzada-irfanullah/COGO">Code</a> <small>(Private Repo)</small>
           </dd>
@@ -425,6 +436,6 @@ awards:
 
 ## About Me
 
-Irfan Ullah is a Ph.D. graduate in Computer Science from Kyung Hee University, South Korea. He received his Masters in Computer Science from the National University of Sciences and Technology (NUST), Pakistan, and has held research and teaching positions at NUST and the Federal Urdu University of Arts, Science, and Technology (FUUAST), as well as a development role at the multinational Knowledge Platform in Pakistan. He is also a Research Assistant in the Department of Computer Science and Engineering at Kyung Hee University.
+Irfan Ullah is a Research Professor at Department of Computer Engineering, College of Software Convergence, Kyung Hee University, South Korea. He completed his Ph.D. in Computer Engineering from the same university. He received his Masters in Computer Science from the National University of Sciences and Technology (NUST), Pakistan, and has held research and teaching positions at NUST and the Federal Urdu University of Arts, Science, and Technology (FUUAST), as well as a development role at the multinational Knowledge Platform in Pakistan. He is also a Research Assistant in the Department of Computer Science and Engineering at Kyung Hee University.
 
 With a strong academic background and a record of winning multiple awards for excellent performance, his work has been published in high-impact journals and international conferences, and he is co-inventor on several patents. He has contributed to research projects on scalable graph neural network (GNN) training, memory-aware computing, distributed graph learning, social media data analysis, and is increasingly building expertise in quantum machine learning. He has delivered invited talks and tutorials on programming and development, natural language processing, distributed computing, machine learning with graphs, and quantum-enhanced algorithms. His research interests span graph neural networks, quantum machine learning, deep learning, big data analytics, multimodal learning, computer vision, natural language processing, crisis computing, information retrieval, distributed systems, operating-system design, and memory-system optimization.
