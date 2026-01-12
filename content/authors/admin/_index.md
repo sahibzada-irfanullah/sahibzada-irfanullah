@@ -26,7 +26,7 @@ highlight_name: true
 #   - name: 
 #     url:
 # Role/position/tagline
-role: Research Professor 
+role: Research Professor
 organizations:
   - name: Kyung-Hee University (KHU), South Korea
     url: https://www.khu.ac.kr/eng/user/main/view.do
