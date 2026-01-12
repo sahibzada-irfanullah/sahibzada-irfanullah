@@ -19,14 +19,14 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
+
+# role: 
+# # Organizations/Affiliations to display in Biography blox
+# organizations:
+#   - name: 
+#     url:
 # Role/position/tagline
-role: Research Professor
-role: 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: 
-    url:
-    
+role: Research Professor 
 organizations:
   - name: Kyung-Hee University (KHU), South Korea
     url: https://www.khu.ac.kr/eng/user/main/view.do
