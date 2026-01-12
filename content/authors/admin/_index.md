@@ -20,16 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-#role: Research Professor
+role: Research Professor
 role: 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 
     url:
     
-#organizations:
-#  - name: Kyung-Hee University (KHU), South Korea
-#    url: https://www.khu.ac.kr/eng/user/main/view.do
+organizations:
+  - name: Kyung-Hee University (KHU), South Korea
+    url: https://www.khu.ac.kr/eng/user/main/view.do
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
