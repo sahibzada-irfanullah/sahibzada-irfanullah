@@ -1,0 +1,1 @@
+first go to the menu.yaml and uncomment news button , then here uncommend the related section of news in _index.md which is at the last.

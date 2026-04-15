@@ -261,20 +261,20 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: cpu-chip
       - name: Deep Learning
         description: ''
         percent: 40
         icon_pack: ''
-        icon: brain.svg
+        icon: cpu-chip
       - name: Graph Neural Networks
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: share
       - name: Graph Embedding
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: circle-stack
       - name: Distributed Computing
         description: ''
         percent: 40
@@ -282,7 +282,7 @@ skills:
       - name: Parallel Computing
         description: ''
         percent: 40
-        icon: microchip.svg
+        icon: chat-bubble-left-right
       - name: Natural Language Processing
         description: ''
         percent: 40
@@ -312,6 +312,8 @@ languages:
     percent: 100
   - name: Urdu/Hindi
     percent: 100
+  - name: Punjabi/Hindko/Saraiki 
+    percent: 80
   - name: Korean
     percent: 25
 
@@ -319,95 +321,209 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
+
+
 awards:
-- title: "Grant for the \"MQ-GNN\""
-  url: ""
-  date: '2025-01-01'
-  awarder: "Ministry of Science and ICT (MSIT), Korea"
-  icon: ""
-  summary: |
-    Programs: Development of a Distributed Graph Data Management System for Intelligent Processing of Big Graphs (Grant No. 2021-0-00859) and AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP.
+  - title: "🏆 Grant for the \"MQ-GNN\""
+    date: '2025-01-01'
+    awarder: "Ministry of Science and ICT (MSIT), Korea"
+    summary: |
+      Supported under:
+      - Development of a Distributed Graph Data Management System for Intelligent Processing of Big Graphs (Grant No. 2021-0-00859).
+      - AI Convergence Innovation Human Resources Development, Kyung Hee University (Grant No. RS-2022-00155911).
+      - Supervising Organization: IITP.
 
-- title: "Grant for the \"DAFOS based GNN\" Optimization"
-  url: ""
-  date: '2024-11-01'
-  awarder: "Ministry of Science and ICT (MSIT), Korea"
-  icon: ""
-  summary: |
-    Program: AI Convergence Innovation Human Resources Development, Kyung Hee Univ. (Grant No. RS-2022-00155911); Supervising Organization: IITP.
+  - title: "🏆 Grant for the \"DAFOS based GNN\" Optimization"
+    date: '2024-11-01'
+    awarder: "Ministry of Science and ICT (MSIT), Korea"
+    summary: |
+      - AI Convergence Innovation Human Resources Development Program, Kyung Hee University (Grant No. RS-2022-00155911).
+      - Supervising Organization: IITP.
 
-- title: "Grant for the \"RweetMiner system\""
-  url: ""
-  date: '2019-03-01'
-  awarder: "Ministry of Science and ICT (MSIT), Korea"
-  icon: ""
-  summary: |
-    Grand IT Research Center support program (Grant No. IITP-2020-2015-0-00742); Supervising Organization: IITP.
+  - title: "🏆 Grant for the \"RweetMiner system\""
+    date: '2019-03-01'
+    awarder: "Ministry of Science and ICT (MSIT), Korea"
+    summary: |
+      - Grand IT Research Center Support Program (Grant No. IITP-2020-2015-0-00742).
+      Supervising Organization: IITP.
 
-- title: "NUST Postgraduate Scholarship"
-  url: ""
-  date: '2015-09-01'
-  awarder: "National University of Sciences and Technology (NUST), Pakistan"
-  icon: ""
-  summary: ""
+  - title: "🎓 KHU Postgraduate Scholarship (PhD degree)"
+    date: '2019-03-01'
+    awarder: "Ministry of Science and ICT (MSIT), South Korea."
+    summary: |
+      - Awarded the Korean Presidential Scholarship.
 
-- title: "Position Holder Award"
-  url: ""
-  date: '2015-03-01'
-  awarder: "Gomal University, Pakistan"
-  icon: ""
-  summary: |
-    Received a shield, provided by IC&IT Department for achieving second position in my Bachelor’s degree.
+  - title: "🎓 NUST Postgraduate Scholarship (Master's degree)"
+    date: '2015-09-01'
+    awarder: "National University of Sciences and Technology (NUST), Pakistan"
+    summary: |
+      - Awarded with merit-based Scholarship.
 
-- title: "Position Holder Award"
-  url: ""
-  date: '2014-04-01'
-  awarder: "Gomal University, Pakistan"
-  icon: ""
-  summary: |
-    Shield awarded by the Controller of Examinations, NUST, for achieving second position in the final year of the Bachelor’s degree.
+  - title: "⭐  Position Holder Award"
+    date: '2015-03-01'
+    awarder: "Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded for securing second position in my Bachelor’s degree.
 
-
-- title: "Best Software Developer Award"
-  url: ""
-  date: '2014-01-01'
-  awarder: "Gomal University"
-  icon: ""
-  summary: |
-    Shield awarded by Gomal University for securing first position in a software competition by developing a user-friendly, error-preventive tool for solving numerical problems in uniformly accelerated kinematics.
-
-- title: "Second Position Award"
-  url: ""
-  date: '2014-04-01'
-  awarder: "Marwat Student Society, Gomal University"
-  icon: ""
-  summary: |
-    Shield awarded by Marwat Student Society at the First Marwat Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
+  - title: "⭐  Position Holder Award"
+    date: '2014-04-01'
+    awarder: "IC&IT Department, Gomal University (GU), Pakistan"
+    summary: |
+     - Awarded for securing second position in the third year of my Bachelor’s degree.
 
 
-- title: "Second Position Award"
-  url: ""
-  date: '2014-04-01'
-  awarder: "Gomal University"
-  icon: ""
-  summary: |
-    Shield awarded by People’s Student Federation at the Shaheed Qamar Abbas Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
+  - title: "💻 Best Software Developer Award"
+    date: '2014-01-01'
+    awarder: "Gomal University (GU), Pakistan"
+    summary: |
+      - First position in a software competition for developing a tool for solving numerical problems in uniformly accelerated kinematics.
 
-- title: "First Position Award"
-  url: ""
-  date: '2013-04-01'
-  awarder: "National University of Sciences and Technology (NUST), Pakistan"
-  icon: ""
-  summary: |
-    Shield awarded by the IC & IT Department, NUST, for achieving first position in the second year of the Bachelor’s degree.
+  - title: "⭐  Position Holder Award"
+    date: '2014-04-01'
+    awarder: "People’s Student Federation at the Shaheed Qamar Abbas Talent Award Show, Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded for securing second position in the third year of my Bachelor’s degree.
+      
+  - title: "⭐  Position Holder Award"
+    date: '2014-04-01'
+    awarder: "Marwat Student Society at the First Marwat Talent Award Show, Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded for securing second position in the third year of my Bachelor’s degree.
 
-- title: "First Position Award"
-  url: ""
-  date: '2012-03-01'
-  awarder: "Gomal University"
-  icon: ""
-  summary: |
-    Shield awarded by the IC & IT Department, NUST, for achieving first position in the first year of the Bachelor’s degree.
+
+
+  - title: "⭐  Position Holder Award"
+    date: '2013-04-01'
+    awarder: "IC&IT Department, Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded for securing first position in the second year of my Bachelor’s degree.
+
+  - title: "⭐  Position Holder Award"
+    date: '2012-03-01'
+    awarder: "IC&IT Department, Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded for securing first position in the first year of my Bachelor’s degree.
+
+
+  - title: "🎓 Gomal Undersgraduate Scholarship (Bachelor's degree)"
+    date: '2015-09-01'
+    awarder: "Gomal University (GU), Pakistan"
+    summary: |
+      - Awarded with open-merit Scholarship.
+      
+
+      
+      
+#   - title: "⭐ Position Holder Awards"
+#     date: '2012-03-01'
+#     awarder: "Gomal University"
+#     summary: |
+#       Achieved multiple top positions (1st and 2nd) during Bachelor’s studies.
+
+
+# awards:
+#   - title: "🏆 Grant for the \"DAFOS based GNN\" Optimization"
+#     url: ""
+#     date: '2025-01-01'
+#     awarder: "Ministry of Science and ICT (MSIT), Korea"
+#     summary: |
+#       Supported under the AI Convergence Innovation Human Resources Development Program at Kyung Hee University (Grant No. RS-2022-00155911).
+#       Supervising Organization: IITP.
+# 
+#   - title: "🏆 Grant for the \"DAFOS based GNN\" Optimization"
+#     url: ""
+#     date: '2024-11-01'
+#     awarder: "Ministry of Science and ICT (MSIT), Korea"
+#     icon: ""
+#     summary: |
+#       - AI Convergence Innovation Human Resources Development Program, Kyung Hee University (Grant No. RS-2022-00155911).
+#       Supervising Organization: IITP.
+#       
+#     - title: "🏆 Grant for the \"DAFOS based GNN\" Optimization"
+#       url: ""
+#       date: '2024-11-01'
+#       awarder: "Ministry of Science and ICT (MSIT), Korea"
+#       icon: ""
+#       summary: |
+#         - AI Convergence Innovation Human Resources Development Program, Kyung Hee University (Grant No. RS-2022-00155911).
+#         Supervising Organization: IITP.
+#       
+# 
+#   - title: "🏆 Grant for the \"RweetMiner system\""
+#     url: ""
+#     date: '2019-03-01'
+#     awarder: "Ministry of Science and ICT (MSIT), Korea"
+#     icon: ""
+#     summary: |
+#       - Grand IT Research Center support program (Grant No. IITP-2020-2015-0-00742); Supervising Organization: IITP.
+# 
+# 
+#   - title: "🎓 NUST Postgraduate master Scholarship"
+#     url: ""
+#     date: '2015-09-01'
+#     awarder: "National University of Sciences and Technology (NUST), Pakistan"
+#     icon: ""
+#     summary: |
+#       - Awarded a fully funded postgraduate merit-based scholarship based on academic merit.
+# 
+#   - title: "🥇 Position Holder Award"
+#     url: ""
+#     date: '2015-03-01'
+#     awarder: "Gomal University, Pakistan"
+#     icon: ""
+#     summary: |
+#       - Received a shield, provided by IC&IT Department for achieving second position in my Bachelor’s degree.
+# 
+#   - title: "🥇 Position Holder Award"
+#     url: ""
+#     date: '2014-04-01'
+#     awarder: "Gomal University, Pakistan"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by the Controller of Examinations, NUST, for achieving second position in the final year of the Bachelor’s degree.
+# 
+# 
+#   - title: "🥇 Best Software Developer Award"
+#     url: ""
+#     date: '2014-01-01'
+#     awarder: "Gomal University"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by Gomal University for securing first position in a software competition by developing a user-friendly, error-preventive tool for solving numerical problems in uniformly accelerated kinematics.
+# 
+#   - title: "🥈 Second Position Award"
+#     url: ""
+#     date: '2014-04-01'
+#     awarder: "Marwat Student Society, Gomal University"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by Marwat Student Society at the First Marwat Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
+# 
+# 
+#   - title: "🥈 Second Position Award"
+#     url: ""
+#     date: '2014-04-01'
+#     awarder: "Gomal University"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by People’s Student Federation at the Shaheed Qamar Abbas Talent Award Show, Gomal University, for securing second position in the second year of the Bachelor’s degree.
+# 
+#   - title: "🥇 First Position Award"
+#     url: ""
+#     date: '2013-04-01'
+#     awarder: "National University of Sciences and Technology (NUST), Pakistan"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by the IC & IT Department, NUST, for achieving first position in the second year of the Bachelor’s degree.
+# 
+#   - title: "🥇 First Position Award"
+#     url: ""
+#     date: '2012-03-01'
+#     awarder: "Gomal University"
+#     icon: ""
+#     summary: |
+#       - Shield awarded by the IC & IT Department, NUST, for achieving first position in the first year of the Bachelor’s degree.
 
 
 
