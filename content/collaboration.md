@@ -59,8 +59,14 @@ sections:
     content:
       title: "📩 Get in Touch"
       text: |
-        If you believe our interests align, please feel free to contact me with a short introduction, your background, and a brief description of the collaboration idea.
-
-        📧**global [dot] talent [dot] applications [at] gmail.com**
+        I welcome collaboration and consulting inquiries from students, researchers, and industry partners.
+        
+        Please include a brief introduction, your background, and a concise description of your proposed idea or project.
+        
+        📧 Research & Collaboration:
+        irfan [at] khu.ac.kr
+        
+        📧 Applications & General Inquiries:
+        global [dot] talent [dot] applications [at] gmail [dot] com
 
 ---

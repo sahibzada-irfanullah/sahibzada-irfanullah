@@ -37,7 +37,8 @@ sections:
       text: |-
         My research interests include Machine Learning with Graphs, Graph Neural Networks, Natural Language Processing, Data Mining & Information Retrieval, Machine Learning with Graphs for NLP, Distributed Computing, Computer Vision, Quantum Computing, and Quantum Machine Learning.
         
-        Please reach out to collaborate 😃.
+        I actively welcome collaborations in related research areas. [Explore Collaboration and Opportunities →](/collaboration/)
+        
     design:
       columns: '1'
   # - block: collection
