@@ -29,9 +29,9 @@ main:
   - name: Projects
     url: projects/
     weight: 21
-  - name: Open Positions
-    url: open_positions/
-    weight: 22
+#  - name: Open Positions
+ #   url: open_positions/
+  #  weight: 22
   - name: Collaboration & Consulting
     url: collaboration/
     weight: 24
