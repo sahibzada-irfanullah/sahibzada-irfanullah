@@ -84,17 +84,31 @@ education:
   #   summary: |
   #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
+  - position: Postdoctoral Researcher, AI Meta-Scientist (InnoCORE) Program
+    company_name: KAIST & Kyung Hee University (External Researcher, 외부연구원), South Korea
+    company_url: 'https://www.kaist.ac.kr/en/'
+    company_logo: 'kaist.svg'
+    date_start: 2026-05-01
+    date_end: ""
+    summary: |
+        **Responsibilities:**
+        * Developing a scientific knowledge graph analysis framework using graph topology, causal path consistency, and provenance-reliability signals to automatically detect explanation gaps, conflicting findings, and causally ambiguous regions
+        * Designing conflict-reasoning methods that categorize scientific inconsistencies (causal-direction, entity, conditional-context, temporal conflicts) to distinguish genuine contradictions from contextual variation
+        * Formalizing detected vulnerable regions into simulation-executable Structural Causal Models (SCMs) for uncertainty-aware scientific hypothesis exploration
+
   - position: Research Professor
     company_name: Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
     company_logo: 'dke.svg'
     date_start: 2025-09-01
-    date_end: ""
+    date_end: 2026-04-30
     summary: |
         **Responsibilities:**
-        * Supervising
-        * Research and Development
-        * Writing and developing research proposals
+        * Led the proposal for POLARIS, an approved 4-year deep-learning-based universal optimizer for procedural SQL; authored the multi-year research plan defining the project's technical direction
+        * Led a research line on scalable GNN training systems
+        * Supervised graduate students on experimentation, benchmarking, and manuscript preparation
+        * Co-developed technical proposals in distributed AI systems and graph-based reasoning
+
   - position: Research Associate
     company_name: Data and Knowledge Engineering (DKE) Lab, Kyung-Hee University (KHU), South Korea
     company_url: 'https://www.dkelab.kr/'
@@ -105,93 +119,92 @@ work:
         <dl class="resume-period">
           <dt><em>Feb 2024 – Aug 2025</em></dt>
           <dd>
-            <strong>Goal:</strong> Optimized Subgraph Batching and Caching for Rapid GNNs, <a href="https://github.com/sahibzada-irfanullah/COGO">Code</a> <small>(Private Repo)</small>
+            <strong>Goal:</strong> Optimized Subgraph Batching and Caching for Rapid GNNs (CommGNN), <a href="https://github.com/sahibzada-irfanullah/COGO">Code</a> <small>(Private Repo)</small>
           </dd>
           <dd>
             <strong>Responsibilities:</strong>
             <ul>
-              <li>Paradigm Designing</li>
-              <li>Hybrid Sampling</li>
-              <li>Performance Analysis (theoretically and Empirically)</li>
+              <li>Community-aware graph restructuring and sampling paradigm design</li>
+              <li>Memory access pattern investigation and learning-aware prefetching</li>
+              <li>Performance analysis (theoretically and empirically) — achieved 1.86–24.79× speedup</li>
             </ul>
           </dd>
         </dl>
-        
+
         <dl class="resume-period">
           <dt><em>Feb 2023 – Feb 2024</em></dt>
           <dd>
-            <strong>Goal:</strong> Scalable High-Throughput GNN Training Pipeline, <a href="https://github.com/dke-lab/dgll/tree/main/dgll/GPU%20Accelerator">Code</a>
+            <strong>Goal:</strong> Scalable High-Throughput GNN Training Pipeline (MQ-GNN), <a href="https://github.com/dke-lab/dgll/tree/main/dgll/GPU%20Accelerator">Code</a>
           </dd>
           <dd>
             <strong>Responsibilities:</strong>
             <ul>
               <li>Multi-queue pipelined architecture designing</li>
-              <li>Adaptive Synchronization</li>
-              <li>Cache Management</li>
+              <li>Adaptive synchronization (RaCoM)</li>
+              <li>Cache management</li>
             </ul>
           </dd>
         </dl>
 
-        
-      <dl class="resume-period">
-        <dt><em>Feb 2022 – Feb 2023</em></dt>
-        <dd>
-          <strong>Goal:</strong> Fast-Convergence Optimization for High-Speed GNN Training, <a href="#">Code</a> <small>(Private Repo)</small>
-        </dd>
-        <dd>
-          <strong>Responsibilities:</strong>
-          <ul>
-            <li>Adaptive receptive field exppanstion designing</li>
-            <li>Node prioritization</li>
-            <li>Accelerating model convergence</li>
-          </ul>
-        </dd>
-      </dl>
-  
-      <dl class="resume-period">
-        <dt><em>Feb 2021 – Jan 2022</em></dt>
-        <dd>
-          <strong>Goal:</strong> Unified Resource-Constrained Graph Embedding Library , <a href="https://github.com/dke-lab/dgll/tree/main/dgll/Graph%20Embedding">Code</a>, <a href="https://pypi.org/project/dgllge/">PyPI</a>
-        </dd>
-        <dd>
-          <strong>Responsibilities:</strong>
-          <ul>
-            <li>User-friendly library development</li>
-            <li>Module implementation</li>
-            <li>Data pipelines</li>
-          </ul>
-        </dd>
-      </dl>
-      
-      <dl class="resume-period">
-        <dt><em>Feb 2020 – Jan 2022</em></dt>
-        <dd>
-          <strong>Goal:</strong> Scalable Fault-Tolerant Distributed In-Memory GNN Training Framework, <a href="https://github.com/dke-lab/DGLL-2022">Code</a>
-        </dd>
-        <dd>
-          <strong>Responsibilities:</strong>
-          <ul>
-            <li>Framework Design</li>
-            <li>Cluster Setup</li>
-            <li>API Development</li>
-          </ul>
-        </dd>
-      </dl>
-     
-       <dl class="resume-period">
-        <dt><em>Feb 2019 – Jan 2020</em></dt>
-        <dd>
-          <strong>Goal:</strong> AI-Driven Hybrid DRAM–NVM Memory Management Optimization, <a href="https://github.com/sahibzada-irfanullah/SamsungSmartSSD">Code</a> <small>(Private Repo)</small>
-        </dd>
-        <dd>
-          <strong>Responsibilities:</strong>
-          <ul>
-            <li>Optimization</li>
-            <li>Prefetching</li>
-            <li>Log Generation</li>
-          </ul>
-        </dd>
-      </dl>
+        <dl class="resume-period">
+          <dt><em>Feb 2022 – Feb 2023</em></dt>
+          <dd>
+            <strong>Goal:</strong> Fast-Convergence Optimization for High-Speed GNN Training (DAFOS/DARFES), <a href="#">Code</a> <small>(Private Repo)</small>
+          </dd>
+          <dd>
+            <strong>Responsibilities:</strong>
+            <ul>
+              <li>Adaptive receptive field expansion designing</li>
+              <li>Node prioritization</li>
+              <li>Accelerating model convergence</li>
+            </ul>
+          </dd>
+        </dl>
+
+        <dl class="resume-period">
+          <dt><em>Feb 2021 – Jan 2022</em></dt>
+          <dd>
+            <strong>Goal:</strong> Unified Resource-Constrained Graph Embedding Library, <a href="https://github.com/dke-lab/dgll/tree/main/dgll/Graph%20Embedding">Code</a>, <a href="https://pypi.org/project/dgllge/">PyPI</a>
+          </dd>
+          <dd>
+            <strong>Responsibilities:</strong>
+            <ul>
+              <li>User-friendly library development</li>
+              <li>Module implementation</li>
+              <li>Data pipelines</li>
+            </ul>
+          </dd>
+        </dl>
+
+        <dl class="resume-period">
+          <dt><em>Feb 2020 – Jan 2021</em></dt>
+          <dd>
+            <strong>Goal:</strong> Scalable Fault-Tolerant Distributed In-Memory GNN Training Framework (GDLL), <a href="https://github.com/dke-lab/DGLL-2022">Code</a>
+          </dd>
+          <dd>
+            <strong>Responsibilities:</strong>
+            <ul>
+              <li>Framework design</li>
+              <li>Cluster setup</li>
+              <li>API development</li>
+            </ul>
+          </dd>
+        </dl>
+
+        <dl class="resume-period">
+          <dt><em>Feb 2019 – Jan 2020</em></dt>
+          <dd>
+            <strong>Goal:</strong> AI-Driven Hybrid DRAM–NVM Memory Management Optimization, <a href="https://github.com/sahibzada-irfanullah/SamsungSmartSSD">Code</a> <small>(Private Repo)</small>
+          </dd>
+          <dd>
+            <strong>Responsibilities:</strong>
+            <ul>
+              <li>Optimization</li>
+              <li>Prefetching</li>
+              <li>Log generation</li>
+            </ul>
+          </dd>
+        </dl>
 
   - position: Research Engineer
     company_name: Knowledge Platform, Pakistan
@@ -203,46 +216,43 @@ work:
         **Responsibilities:**
         * Grammar checker designing
         * Error detection/correction modules development
-        * Quality Assurance
+        * Quality assurance
 
-  - position: Data Science Internee
+  - position: Data Science Intern
     company_name: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
-    company_logo: nust-logo
-    date_start: '2017-06-01'
-    date_end: '2018-07-01'
-    description: |2-
+    company_logo: nust-logo.svg
+    date_start: 2017-06-01
+    date_end: 2018-07-01
+    summary: |
         **Responsibilities:**
-        * Data Parsing and Feature Engineering
+        * Data parsing and feature engineering
         * Efficient disaster management designing
-        * Supervising undergraduates and junior postgraduate students 
-        
-        
+        * Supervising undergraduates and junior postgraduate students
+
   - position: Teaching Assistant
     company_name: National University of Sciences and Technology (NUST), Pakistan
     company_url: 'https://nust.edu.pk/'
     company_logo: nust-logo.svg
-    location: Pakistan
-    date_start: '2016-06-01'
-    date_end: '2018-09-01'
-    description: |2-
+    date_start: 2016-06-01
+    date_end: 2018-09-01
+    summary: |
         **Responsibilities:**
         * Lesson planning and lab support
         * Lecture delivery and grading
         * Mentorship and supervision
-        
+
   - position: Visiting Faculty
     company_name: Federal Urdu University of Arts Science and Technology (FUUAST), Pakistan
     company_url: 'https://fuuast.edu.pk/'
     company_logo: fuuast-logo.svg
-    location: Pakistan
-    date_start: '2016-10-01'
-    date_end: '2017-02-27'
-    description: |2-
+    date_start: 2016-10-01
+    date_end: 2017-02-27
+    summary: |
         **Responsibilities:**
-        * Lecture Delivery
-        * Student Mentorship
-        * Assessment Design
+        * Lecture delivery
+        * Student mentorship
+        * Assessment design
 
 
 # Skills
