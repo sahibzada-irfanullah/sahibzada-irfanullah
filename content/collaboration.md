@@ -64,9 +64,9 @@ sections:
         Please include a brief introduction, your background, and a concise description of your proposed idea or project.
         
         📧 Research & Collaboration:
-        irfan [at] khu.ac.kr
+        sahibzada.iu [at] gmail.com
         
-        📧 Applications & General Inquiries:
-        global [dot] talent [dot] applications [at] gmail [dot] com
+#        📧 Applications & General Inquiries:
+#        global [dot] talent [dot] applications [at] gmail [dot] com
 
 ---
