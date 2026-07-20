@@ -26,10 +26,10 @@ highlight_name: true
 #   - name: 
 #     url:
 # Role/position/tagline
-role: Research Professor
+role: PostDoctoral Researcher
 organizations:
-  - name: Kyung-Hee University (KHU), South Korea
-    url: https://www.khu.ac.kr/eng/user/main/view.do
+  - name: KAIST, South Korea
+    url: https://www.kaist.ac.kr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
