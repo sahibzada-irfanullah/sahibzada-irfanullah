@@ -84,8 +84,8 @@ education:
   #   summary: |
   #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
-  - position: Postdoctoral Researcher, AI Meta-Scientist (InnoCORE) Program
-    company_name: KAIST & Kyung Hee University (External Researcher, 외부연구원), South Korea
+  - position: Postdoctoral Researcher & External Researcher 
+    company_name: KAIST (Postdoctoral Researcher) & Kyung-Hee University (External/Collabrating Researcher), South Korea
     company_url: 'https://www.kaist.ac.kr/en/'
     company_logo: 'kaist.svg'
     date_start: 2026-05-01
