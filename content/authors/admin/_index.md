@@ -84,7 +84,7 @@ education:
   #   summary: |
   #     Thesis Title: Personal Identification and Verification using Multiple Biometrics
 work:
-  - position: Postdoctoral Researcher & External Researcher 
+  - position: Postdoctoral Researcher & External/Collabrating Researcher 
     company_name: KAIST (Postdoctoral Researcher) & Kyung-Hee University (External/Collabrating Researcher), South Korea
     company_url: 'https://www.kaist.ac.kr/en/'
     company_logo: 'kaist.svg'
